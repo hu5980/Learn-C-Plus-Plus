@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gavinhu/Desktop/Github/LearnC++/02/Extern C/math.h
+
+/Users/gavinhu/Desktop/Github/LearnC++/02/Extern C/other.c
+stdio.h
+-
+math.h
+/Users/gavinhu/Desktop/Github/LearnC++/02/Extern C/math.h
+
